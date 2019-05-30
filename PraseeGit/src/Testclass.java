@@ -16,12 +16,9 @@ System.out.println("The sum is :"  +c);
 
 
 
-System.out.println("new branch added");
+System.out.println("An Intro to Git and GitHub for Beginners (Tutorial)");
 
-System.out.println("new branch added");
-
-System.out.println("new branch added");
-
+System.out.println("An Intro to Git and GitHub for Beginners (Tutorial)");
 
 
 	
